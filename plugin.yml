@@ -1,0 +1,20 @@
+name: FruskyDuel
+main: sfvv.FruskyDuel.Main
+version: 1.0
+depend: [Essentials]
+softdepend: []
+commands:
+    duel:
+        description: Such Wow , much Wow
+    adminduel:
+        description: Such Wow , much Wow
+    elo:
+        description: Such Wow , much Wow
+    spawn:
+        description: Such Wow , much Wow
+    spec:
+      usage: /<command>
+      description: Opens punish menu
+    spectate:
+      usage: /<command>
+      description: Opens punish menu
